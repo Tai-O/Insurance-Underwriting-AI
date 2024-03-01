@@ -11,7 +11,7 @@ PoC to show how we can use LLM's to analyze risk on an Insurance application for
 
 2. Get Open AI API KEY
 - Create an account on https://platform.openai.com/api-keys and get an API KEY (Needed to access GPT 3.5 turbo model)
-- Open command prompt
+- Open command prompt (Windows)
 - ```bash
     setx OPENAI_API_KEY "your-api-key-here"
     ```
